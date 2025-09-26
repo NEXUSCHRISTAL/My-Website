@@ -1,7 +1,8 @@
 function viewMore1() {
-    window.location.href = "/codedProjects.html";
+    window.location.href = "codedProjects.html";
 }
 
 function viewMore2() {
-    window.location.href = "/artworkProjects.html";
+    window.location.href = "artworkProjects.html";
 }
+
